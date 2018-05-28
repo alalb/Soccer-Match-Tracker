@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Soccer Match Tracker</string>
+<string-array name="Teams">
+<item>Real Madrid</item>
+<item>Barcelona</item>
+<item>Liverpool</item>
+<item>Manchester United</item>
+    <item>Manchester City</item>
+    <item>Juventus</item>
+    <item>Paris Saint-Germain</item>
+<item>Bayern Munich</item>
+</string-array>
+    <string name="start_timer">Start Timer</string>
+    <string name="pauseButtonLabel">Pause</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="offside">Offside</string>
+    <string name="corner_kick">Corner Kick</string>
+    <string name="shots">Shots</string>
+    <string name="goals">Goals</string>
+    <string name="fouls">Fouls</string>
+    <string name="yellow_cards">Yellow Cards</string>
+    <string name="red_cards">Red Cards</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
